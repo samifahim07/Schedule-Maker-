@@ -43,4 +43,4 @@ when we run the code the first line will be :
 
 
 
-let`s take my schedule .. i give 5 day`s schedule that`s why the code show me sunday-wednesday and we never see friday and saturday on the output.
+Let's take my schedule. I gave a 5-day schedule, which is why the code shows Sunday to Thursday and we never see Friday and Saturday in the output. It`s depend on the user that how many days user want to plan.
