@@ -17,6 +17,12 @@ Flexibility: Users can plan any number of days (1–7) and add tasks dynamically
 Productivity boost: Ensures users stay on track with their weekly goals and commitments.
 
 Overall, this program acts as a personal digital assistant, helping users plan, track, and review their weekly schedule in a simple and efficient manner.
+
+
+
+
+
+
 Here is my schedule : 
 <img width="321" height="476" alt="routine" src="https://github.com/user-attachments/assets/6de08792-ceaf-4352-986d-a1af147afca1" />
 
