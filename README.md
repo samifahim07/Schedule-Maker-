@@ -30,9 +30,17 @@ Here is my schedule :
 
 
 
-now talk about the code output : 
+now talk about the code output ;
+
+
+
 when we run the code the first line will be : 
 
+
+
 <img width="438" height="41" alt="sample" src="https://github.com/user-attachments/assets/70e5aea6-3a43-43d3-8081-cf682d03d4a0" />
+
+
+
 
 let`s take my schedule .. i give 5 day`s schedule that`s why the code show me sunday-wednesday and we never see friday and saturday on the output.
