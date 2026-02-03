@@ -19,4 +19,8 @@ Productivity boost: Ensures users stay on track with their weekly goals and comm
 Overall, this program acts as a personal digital assistant, helping users plan, track, and review their weekly schedule in a simple and efficient manner.
 Here is my schedule : 
 
-<img width="321" height="476" alt="routine" src="https://github.com/user-attachments/assets/27bab96c-736e-47e6-807d-1fd53cbd164b" />
+<img width="321" height="476" alt="routine" src="https:/<img width="438" height="41" alt="image" src="https://github.com/user-attachments/assets/20bab206-0fc1-4d22-8795-f3318b027889" />
+/github.com/user-attachments/assets/27bab96c-736e-47e6-807d-1fd53cbd164b" />
+now talk about the code output : 
+when we run the code the first line will be : ![Uploading image.png…]() 
+let`s take my schedule .. i give 5 day`s schedule that`s why the code show me sunday-wednesday and we never see friday and saturday on the output.\
