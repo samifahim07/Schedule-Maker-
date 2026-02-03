@@ -1,6 +1,6 @@
 # Schedule-Maker-
 This project is a weekly schedule manager designed to help users organize and track their tasks efficiently. It allows you to set, view, and manage your weekly activities, ensuring better time management and productivity. 
-Let`s talk it briefly,
+Let`s talk about it,
 
 This Python program is a Weekly Routine Planner designed to help users organize and manage their tasks efficiently throughout the week. It uses a dictionary (routine) to store tasks for each day, with nested dictionaries mapping specific times to tasks, and a list (week_days) to manage day names. Users can select how many days (1–7) they want to plan, add multiple tasks per day, and the program ensures no scheduling conflicts by checking existing task times.
 
@@ -17,3 +17,6 @@ Flexibility: Users can plan any number of days (1–7) and add tasks dynamically
 Productivity boost: Ensures users stay on track with their weekly goals and commitments.
 
 Overall, this program acts as a personal digital assistant, helping users plan, track, and review their weekly schedule in a simple and efficient manner.
+Here is my schedule : 
+
+<img width="321" height="476" alt="routine" src="https://github.com/user-attachments/assets/27bab96c-736e-47e6-807d-1fd53cbd164b" />
